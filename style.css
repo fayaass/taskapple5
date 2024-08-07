@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 nav{
     background-color: black;
     color: white;
@@ -11,10 +11,11 @@ nav{
 }
 
 span{
-    margin: 12px;
-    font-size: 10px;
+    margin: 10px;
+    font-size: 13px;
     font-weight: bold;
     padding-left: 45px;
+    opacity: 0.5;
     
    
 }
@@ -121,5 +122,51 @@ span{
       visibility: visible;
       opacity: 1;
  }
- 
+
+ .main{
+    text-align: center;
+    font-weight: bold;
+    background-image: url(./images/pexels-matheus-oliveira-64077457-10921040\ \(1\).jpg);
+    height: 90%;
+    width: 100%;
+    background-size: cover;
+    color: white;  
+ }
+
+ .div2{
+  font-size: xx-large;
+  padding: 40px 40px 3px 40px;
+ }
+
+ .div3{
+  font-size: large;
+ }
+
+#btn{
+    margin-top: 15px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: small;
+    border: 2px solid #2997ff;
+    background-color: #2997ff;
+    color: white;
+    height: 28px;
+    width: 100px;
+ }
+
+ #btn1{
+    border-radius: 15px;
+    padding: 5px;
+    font-size: small;
+    background-color: black;
+    color: #2997ff;
+    border: 2px solid #2997ff;
+    height: 28px;
+    width: 70px;
+ }
+
+ .main1{
+  
+ }
+
  

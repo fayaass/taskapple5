@@ -1,7 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
 nav{
     background-color: black;
     color: white;
@@ -125,7 +126,7 @@ span{
 
  .main{
     text-align: center;
-    font-weight: bold;
+    font-weight: normal;
     background-image: url(./images/pexels-matheus-oliveira-64077457-10921040\ \(1\).jpg);
     height: 90%;
     width: 100%;
@@ -134,12 +135,13 @@ span{
  }
 
  .div2{
-  font-size: xx-large;
-  padding: 40px 40px 3px 40px;
+    font-weight: bolder;
+    font-size: 55px;
+    padding: 40px 40px 3px 40px;
  }
 
  .div3{
-  font-size: large;
+  font-size: 30px;
  }
 
 #btn{
@@ -166,7 +168,93 @@ span{
  }
 
  .main1{
-  
+    text-align: center;
+    font-weight: normal;
+    background-image: url(./images/pexels-madebymath-249324.jpg);
+    height: 90%;
+    width: 100%;
+    background-size: cover;
+    color: black;
  }
 
- 
+ #btn3{
+    border-radius: 15px;
+    padding: 5px;
+    font-size: small;
+    background-color: white;
+    color: #2997ff;
+    border: 2px solid #2997ff;
+    height: 28px;
+    width: 70px;
+ }         
+
+ .div4{
+   text-align: center;
+   background-image: url(./images/1_xTyt81dnEVL5JAWEnTcbNA.jpg);
+   height: 100%;
+   width: 100%;
+   background-size: cover; 
+ }
+
+ #btn4{
+    margin-top: 880px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: small;
+    background-color: white;
+    color: #2997ff;
+    border: 2px solid #2997ff;
+    height: 28px;
+    width: 70px;
+ }
+
+ .main2{
+    text-align: center;
+    font-weight: normal;
+    background-image: url(./images/pexels-joshsorenson-1334598.jpg);
+    height: 90%;
+    width: 100%;
+    background-size: cover;
+    color: white;
+ }
+
+ .main3{
+    text-align: center;
+    font-weight: normal;
+    background-image: url(./images/pexels-jeshoots-238118.jpg);
+    height: 90%;
+    width: 100%;
+    background-size: cover;
+    color: black;
+ }
+
+ .main4{
+      text-align: center;
+      font-weight: normal;
+      background-image: url(./images/pexels-tdcat-437036.jpg);
+      height: 90%;
+      width: 100%;
+      background-size: cover;
+      color: white;
+ }
+
+ #watch{
+      color: red;
+ }
+
+ .main5{
+   text-align: center;
+   font-weight: normal;
+   background-image: url(./images/apple-intelligence-hero-3.webp);
+   height: 90%;
+   width: 100%;
+   background-size: cover;
+   color: black;
+ }
+
+ #btn5{
+      padding: 4px;
+      border-radius: 15px;
+      color: #2997ff;
+      border: 2px solid #2997ff;
+ }

@@ -127,21 +127,40 @@ span{
  .main{
     text-align: center;
     font-weight: normal;
-    background-image: url(./images/pexels-matheus-oliveira-64077457-10921040\ \(1\).jpg);
+    background-image: url(./images/iphone\ 15.jpg);
     height: 90%;
     width: 100%;
     background-size: cover;
     color: white;  
  }
 
+  .iphone15pro{
+    font-size: 45px;
+    font-weight: bolder;
+    padding: 40px 40px 3px 40px;
+  }
+
+  .iphone15{
+      font-size: 45px;
+      font-weight: bolder;
+      padding: 40px 40px 3px 40px;
+      color: black;
+  }
+
  .div2{
     font-weight: bolder;
-    font-size: 55px;
+    font-size: 35px;
     padding: 40px 40px 3px 40px;
  }
 
  .div3{
-  font-size: 30px;
+  font-size: 20px;
+ }
+
+ .div33{
+    font-weight: medium;
+    font-size: 20px;
+    color: black;
  }
 
 #btn{
@@ -170,11 +189,11 @@ span{
  .main1{
     text-align: center;
     font-weight: normal;
-    background-image: url(./images/pexels-madebymath-249324.jpg);
+    background-image: url(./images/4.avif);
     height: 90%;
     width: 100%;
     background-size: cover;
-    color: black;
+    color: white;
  }
 
  #btn3{
@@ -212,8 +231,8 @@ span{
     text-align: center;
     font-weight: normal;
     background-image: url(./images/pexels-joshsorenson-1334598.jpg);
-    height: 90%;
-    width: 100%;
+    height: 98%;
+    width: 49%;
     background-size: cover;
     color: white;
     display: inline-block;
@@ -223,9 +242,9 @@ span{
  .main3{
     text-align: center;
     font-weight: normal;
-    background-image: url(./images/pexels-jeshoots-238118.jpg);
-    height: 90%;
-    width: 100%;
+    background-image: url(./images/mac.jpg);
+    height: 98%;
+    width: 49%;
     background-size: cover;
     color: black;
     display: inline-block;
@@ -234,15 +253,16 @@ span{
 
  .flex{
    display: flex;
-   height: 100%;
+   height: 70%;
+   justify-content: space-around;
  }
 
  .main4{
       text-align: center;
       font-weight: normal;
-      background-image: url(./images/pexels-tdcat-437036.jpg);
-      height: 90%;
-      width: 100%;
+      background-image: url(./images/watch.avif);
+      height: 98%;
+      width: 49%;
       background-size: cover;
       color: white;  
       margin-right: 8px;
@@ -256,9 +276,9 @@ span{
  .main5{
    text-align: center;
    font-weight: normal;
-   background-image: url(./images/Apple-Intelligence\ 12345.jpg);
-   height: 90%;
-   width: 100%;
+   background-image: url(./images/888.webp);
+   height: 98%;
+   width: 49%;
    background-size: cover;
    color: black;
    margin-left: 3px;
@@ -266,7 +286,8 @@ span{
 
  .flex1{
    display: flex;
-   height: 100%;
+   height: 70%;
+   justify-content: space-around;
  }
 
  #btn5{
@@ -279,9 +300,9 @@ span{
  .main6{
       text-align: center;
       font-style: normal;
-      background-image: url(./images/Apple-at-work-2.webp);
-      height: 90%;
-      width: 100%;
+      background-image: url(/images/pexels-negativespace-34140.jpg);
+      height: 98%;
+      width: 49%;
       background-size: cover;
       color: white;
       margin-right: 8px;
@@ -290,10 +311,26 @@ span{
 
  .flex2{
       display: flex;
-      height: 100%;
+      height: 70%;
+      justify-content: space-around;
  }
 
  .main7{
       text-align: center;
       font-weight: normal;
+      background-image: url(/images/tr.webp);
+      height: 98%;
+      width: 49%;
+      background-size: cover;
+      color: black;
+      margin-left: 3px;
+      
+ }
+
+ #btn6{
+    padding: 4px;
+    border-radius: 15px;
+    color: white;
+    border: 2px solid #2997ff;
+    background-color: #2997ff;
  }

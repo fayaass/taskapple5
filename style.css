@@ -7,12 +7,12 @@ nav{
     background-color: black;
     color: white;
     padding: 15px;
-    
+    position: fixed;
 
 }
 
 span{
-    margin: 10px;
+    margin: 7px;
     font-size: 13px;
     font-weight: bold;
     padding-left: 45px;
@@ -197,7 +197,7 @@ span{
  }
 
  #btn4{
-    margin-top: 880px;
+    margin-top: 730px;
     border-radius: 15px;
     padding: 5px;
     font-size: small;
@@ -216,6 +216,8 @@ span{
     width: 100%;
     background-size: cover;
     color: white;
+    display: inline-block;
+    margin-right: 8px;
  }
 
  .main3{
@@ -226,6 +228,13 @@ span{
     width: 100%;
     background-size: cover;
     color: black;
+    display: inline-block;
+    margin-left: 3px;
+ }
+
+ .flex{
+   display: flex;
+   height: 100%;
  }
 
  .main4{
@@ -235,7 +244,9 @@ span{
       height: 90%;
       width: 100%;
       background-size: cover;
-      color: white;
+      color: white;  
+      margin-right: 8px;
+      margin-bottom: 500px;
  }
 
  #watch{
@@ -245,11 +256,17 @@ span{
  .main5{
    text-align: center;
    font-weight: normal;
-   background-image: url(./images/apple-intelligence-hero-3.webp);
+   background-image: url(./images/Apple-Intelligence\ 12345.jpg);
    height: 90%;
    width: 100%;
    background-size: cover;
    color: black;
+   margin-left: 3px;
+ }
+
+ .flex1{
+   display: flex;
+   height: 100%;
  }
 
  #btn5{
@@ -257,4 +274,26 @@ span{
       border-radius: 15px;
       color: #2997ff;
       border: 2px solid #2997ff;
+ }
+
+ .main6{
+      text-align: center;
+      font-style: normal;
+      background-image: url(./images/Apple-at-work-2.webp);
+      height: 90%;
+      width: 100%;
+      background-size: cover;
+      color: white;
+      margin-right: 8px;
+      margin-bottom: 500px;
+ }
+
+ .flex2{
+      display: flex;
+      height: 100%;
+ }
+
+ .main7{
+      text-align: center;
+      font-weight: normal;
  }

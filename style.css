@@ -300,7 +300,7 @@ span{
  .main6{
       text-align: center;
       font-style: normal;
-      background-image: url(/images/pexels-negativespace-34140.jpg);
+      background-image: url(./images/pexels-negativespace-34140.jpg);
       height: 98%;
       width: 49%;
       background-size: cover;
@@ -318,7 +318,7 @@ span{
  .main7{
       text-align: center;
       font-weight: normal;
-      background-image: url(/images/tr.webp);
+      background-image: url(./images/tr.webp);
       height: 98%;
       width: 49%;
       background-size: cover;
@@ -333,4 +333,31 @@ span{
     color: white;
     border: 2px solid #2997ff;
     background-color: #2997ff;
+ }
+
+ #btn7{
+      border-radius: 25px;
+      padding: 5px;
+      font-size: large;
+      background-color: white;
+      color: black;
+      border: 2px solid white;
+      height: 45px;
+      width: 140px;
+      margin-top: 700px;
+      margin-right: 1350px;
+ }
+
+ .stream{
+      text-align: center;
+      background-image: url(./images/conjuring.jpg);
+      height: 100%;
+      width: 100%;
+      background-size: cover;
+ }
+
+ .div10{
+      font-weight: bolder;
+      font-size: 20px;
+      color: white;
  }
